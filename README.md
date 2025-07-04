@@ -62,10 +62,16 @@ Datasets explored:
 ---
 
 ## Project Structure
-financial-news-sentiment/
-├── README.md # This file
-├── requirements.txt # List of Python libraries used
-└── main.py # Final project script
+inancial-news-sentiment/
+├── README.md                  # Project overview and progress
+├── requirements.txt           # Python dependencies
+├── main.py                    # Main script with preprocessing and vectorization
+├── cleaned_data.csv           # Cleaned financial news text
+├── tfidf_vectors.csv          # TF-IDF feature matrix
+└── word_frequency.png         # Bar chart of most frequent words
+
+# (Note: Virtual environment folder `venv/` is not included in GitHub)
+
 ## Current Status
 
 I’ve completed Python basics and basic NLP concepts like preprocessing and TF-IDF vectorization.  
