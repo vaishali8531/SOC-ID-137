@@ -1,0 +1,6 @@
+text,sentiment,cleaned_text,sentiment_encoded
+Markets rise as investors react positively to earnings.,positive,market rise investor react positively earning,2
+Stock prices fell sharply due to inflation concerns.,negative,stock price fall sharply due inflation concern,0
+The financial outlook remains neutral amidst uncertainty.,neutral,financial outlook remain neutral amidst uncertainty,1
+"Company reports record profits, shares soar.",positive,company report record profit share soar,2
+Global markets tumble amid geopolitical tensions.,negative,global market tumble amid geopolitical tension,0
